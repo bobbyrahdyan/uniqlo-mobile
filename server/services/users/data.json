@@ -1,0 +1,40 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "username": "cmcgilroy0",
+      "email": "temp@mail.com",
+      "password": "12345",
+      "role": "admin",
+      "phoneNumber": "669-644-4624",
+      "address": "5 Mallard Point"
+    },
+    {
+      "id": 2,
+      "username": "kriba1",
+      "email": "user@mail.com",
+      "password": "12345",
+      "role": "admin",
+      "phoneNumber": "455-543-7498",
+      "address": "35 Lyons Point"
+    },
+    {
+      "id": 3,
+      "username": "mdoonican2",
+      "email": "zgittings2@utexas.edu",
+      "password": "12345",
+      "role": "admin",
+      "phoneNumber": "808-605-1132",
+      "address": "38 Clarendon Way"
+    },
+    {
+      "id": 4,
+      "username": "worourke3",
+      "email": "mcleyburn3@un.org",
+      "password": "12345",
+      "role": "admin",
+      "phoneNumber": "621-838-1431",
+      "address": "4 Meadow Ridge Circle"
+    }
+  ]
+}

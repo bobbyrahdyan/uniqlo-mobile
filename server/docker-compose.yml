@@ -1,0 +1,17 @@
+services:
+    app-service:
+        build: ./services/app
+        ports:
+            - "4001:4001"
+        environment:
+            NODE_ENV: ${NODE_ENV}
+            DATABASE_URL: ${DATABASE_URL}
+        network_mode: "host"
+    user-service:
+        build: ./services/users
+        ports:
+            - "4002:4002"
+        network_mode: "host"
+    orchestrator:
+        build: ./orchestrator
+        network_mode: "host"

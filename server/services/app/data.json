@@ -1,0 +1,346 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "HEATTECH Crew Neck Long Sleeve T-Shirt",
+      "description": "High-performance innerwear that is warm and easy to move around in. The shorter sleeve length stays hidden under outerwear. Due to hygiene reasons, this product cannot be returned.",
+      "price": 199000,
+      "mainImg": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/173c969034c3f54a650c63e81d0b95b7b8b239c4_xxl-1.jpg",
+      "categoryId": 1,
+      "authorId": "63a82f72ad7744dcaf533fe5",
+      "createdAt": "2022-12-22 04:45:58 -0400",
+      "updatedAt": "2022-12-22 04:45:58 -0400"
+    },
+    {
+      "id": 2,
+      "name": "Smart Skort",
+      "description": "Asymmetric hem adds a style accent. Comfortable elastic waist.",
+      "price": 399000,
+      "mainImg": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/ed690a1c872cff532c4f1cc208c129f9195acc37_xxl-1.jpg",
+      "categoryId": 2,
+      "authorId": "63a82f72ad7744dcaf533fe6",
+      "createdAt": "2022-12-22 04:45:58 -0400",
+      "updatedAt": "2022-12-22 04:45:58 -0400"
+    },
+    {
+      "id": 3,
+      "name": "Slub Jersey Cropped Crew Neck T-Shirt",
+      "description": "A relaxed T-shirt made with natural cotton",
+      "price": 24999,
+      "mainImg": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/de3806bafb01f77b8501e2038d021f2220ce1046_xxl-1.jpg",
+      "categoryId": 1,
+      "authorId": "63a82f72ad7744dcaf533fe5",
+      "createdAt": "2022-12-22 04:45:58 -0400",
+      "updatedAt": "2022-12-22 04:45:58 -0400"
+    },
+    {
+      "id": 4,
+      "name": "Regular Fit Resort Shirt",
+      "description": "Short-sleeved shirt in softly draping, patterned viscose with a resort collar, French front and yoke at the back. Open chest pocket, and a straight-cut hem with a slit in each side.",
+      "price": 459900,
+      "mainImg": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/0171f310d406ef866300dd2992fdc283568b18c6_xxl-1.jpg",
+      "categoryId": 1,
+      "authorId": "63a82f72ad7744dcaf533fe7",
+      "createdAt": "2022-12-22 04:45:58 -0400",
+      "updatedAt": "2022-12-22 04:45:58 -0400"
+    },
+    {
+      "id": 5,
+      "name": "Relaxed Fit Teddy Overshirt",
+      "description": "Overshirt in soft teddy with a collar, press-studs down the front and long sleeves with a slit and press-stud at the cuffs. Flap chest pockets with concealed press-studs, and a rounded hem. Satin lining.",
+      "price": 549900,
+      "mainImg": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/072c0c0e37349c3083e7dcf3f13c6cd5d97b80f6_xxl-1.jpg",
+      "categoryId": 1,
+      "authorId": "63a82f72ad7744dcaf533fe7",
+      "createdAt": "2022-12-22 04:45:58 -0400",
+      "updatedAt": "2022-12-22 04:45:58 -0400"
+    },
+    {
+      "id": 6,
+      "name": "Shirt Dress",
+      "description": "CONSCIOUS CHOICE Short, V-neck dress in a softly draping weave with a resort collar, buttons down the front, dropped shoulders, short sleeves, and slits in the sides of the hem. Slightly longer at the back. Unlined.",
+      "price": 429900,
+      "mainImg": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/ea81042c4345cf5c19e6f69730eba604c466de0e_xxl-1.jpg",
+      "categoryId": 2,
+      "authorId": "63a82f72ad7744dcaf533fe6",
+      "createdAt": "2022-12-22 04:45:58 -0400",
+      "updatedAt": "2022-12-22 04:45:58 -0400"
+    },
+    {
+      "id": 7,
+      "name": "Harvard Sweatshirt Oversize",
+      "description": "Atasan oversize dari kain sweat berbahan campuran katun dengan bagian dalam berbulu. Garis leher bulat dengan rib, bahu menurun, lengan panjang, dan rib pada manset dan kelim.",
+      "price": 599900,
+      "mainImg": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/05a5cf6e2af504a9b68b2841b596d03b28f1015a_xxl-1.jpg",
+      "categoryId": 2,
+      "authorId": "63a82f72ad7744dcaf533fe6",
+      "createdAt": "2022-12-22 04:45:58 -0400",
+      "updatedAt": "2022-12-22 04:45:58 -0400"
+    },
+    {
+      "id": 8,
+      "name": "Checked Shirt",
+      "description": "Checked shirt in a soft cotton weave with a collar, buttons down the front and an open chest pocket. Dropped shoulders and long sleeves with buttoned cuffs.",
+      "price": 379900,
+      "mainImg": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/24c594d427e215df8920970bfafe8fef545bf1c1_xxl-1.jpg",
+      "categoryId": 2,
+      "authorId": "63a82f72ad7744dcaf533fe7",
+      "createdAt": "2022-12-22 04:45:58 -0400",
+      "updatedAt": "2022-12-22 04:45:58 -0400"
+    },
+    {
+      "id": 9,
+      "name": "Oversized Printed Hoodie",
+      "description": "Oversized hoodie in sweatshirt fabric with print motifs and a soft brushed inside. Jersey-lined hood, dropped shoulders, long sleeves and ribbing at the cuffs and hem.",
+      "price": 399900,
+      "mainImg": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/e8dc189831bfab1f2166dec4397ba50923738819_xxl-1.jpg",
+      "categoryId": 3,
+      "authorId": "63a82f72ad7744dcaf533fe5",
+      "createdAt": "2022-12-22 04:45:58 -0400",
+      "updatedAt": "2022-12-22 04:45:58 -0400"
+    },
+    {
+      "id": 10,
+      "name": "Oversized Chest-pocket T-shirt",
+      "description": "Oversized T-shirt in soft cotton jersey with a ribbed trim around the neckline, and a chest pocket with an embroidered text motif. Dropped shoulders and wide sleeves.",
+      "price": 249900,
+      "mainImg": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/6cdace96e315be24f3ba4588490167bee44e5c6c_xxl-1.jpg",
+      "categoryId": 3,
+      "authorId": "63a82f72ad7744dcaf533fe5",
+      "createdAt": "2022-12-22 04:45:58 -0400",
+      "updatedAt": "2022-12-22 04:45:58 -0400"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name": "Man",
+      "createdAt": "2022-12-22 04:48:19 -0400",
+      "updatedAt": "2022-12-22 04:48:19 -0400"
+    },
+    {
+      "id": 2,
+      "name": "Women",
+      "createdAt": "2022-12-22 04:48:19 -0400",
+      "updatedAt": "2022-12-22 04:48:19 -0400"
+    },
+    {
+      "id": 3,
+      "name": "Kids",
+      "createdAt": "2022-12-22 04:48:19 -0400",
+      "updatedAt": "2022-12-22 04:48:19 -0400"
+    }
+  ],
+  "Images": [
+    {
+      "id": 1,
+      "productId": 1,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/a2bcbf43e783c76e2941032e0661a785e1009a05_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/b957fb705fa4ee8d49612efedd7b71c8b1b73f5c_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 3,
+      "productId": 1,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/b39d8b1645ea3d1169593e2b038f0f190da5ea17_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 4,
+      "productId": 2,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/4e40b3409d30a8aa30e308dd2dd891737440e0dd_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 5,
+      "productId": 2,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/9fee05e706646acdd29c2b6ac5fc40893b40412c_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 6,
+      "productId": 2,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/5f6c147ac00d3560327505137110cce03650e1b9_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 7,
+      "productId": 3,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/63d2304e010a10ca75fccdccf1d7771105afe9ec_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 8,
+      "productId": 3,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/5a4b7385835ae2327dbb8c521d671abb0921c7f7_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 9,
+      "productId": 3,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/f36374592908ccba7dd88413c86fca51231d58e5_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 10,
+      "productId": 4,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/26a94f8d4924ef94142f496f31454996dde54362_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 11,
+      "productId": 4,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/293fd9b3e3685a69d6d9951bc41d6c6c2a6fccb7_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 12,
+      "productId": 4,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/cb70e0d8b5ce1ad07707e154115d51fa7069fb28_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 13,
+      "productId": 5,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/e3753d4ede4fd40884bd2e3d7a694b7f3a6551ee_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 14,
+      "productId": 5,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/9d61fe187dd118579baa60e8c9c7cec870e0a877_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 15,
+      "productId": 5,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/59a41a14517b51d70c704eb698fb6c9214a187f8_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 16,
+      "productId": 6,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/df06eecee124125eb3060fe6f0a26dd9582a3888_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 17,
+      "productId": 6,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/07095b7b6a62b485a2c5ff31319a1301d478896d_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 18,
+      "productId": 6,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/9767a4d9fca59fe8c94e05a6fa57982b81f2613c_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 19,
+      "productId": 7,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/aae9b7ef145490d0fcbbb1938a5ca91a653409dc_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 20,
+      "productId": 7,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/73520711cf5b792f8b74cacf1e51ea2d8e0a08df_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 21,
+      "productId": 7,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/5969f78e98977e3ce754c749adbaffcf0f2eb857_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 22,
+      "productId": 8,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/d342e4ce41a8d3b350b55c6b05c0f3e24dfae565_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 23,
+      "productId": 8,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/80d9f9e4c857f0c45e49fcb0b9f8f0353462530b_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 24,
+      "productId": 8,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/0ca46eee1b27b82975ea5e8e3235b8c522d782d4_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 25,
+      "productId": 9,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/ceccee24b7e58b9cbe53b9a9084e154e23c9485b_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 26,
+      "productId": 9,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/bbe932f78b5ff1854c0534819a037fb1c883e706_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 27,
+      "productId": 9,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/a63b5783070788c49abcd4ba78b9e8f7b658b5ef_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 28,
+      "productId": 10,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/2d393d7010107d0d95c4718e6743aed21f2df9f6_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 29,
+      "productId": 10,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/7551129b276dac889853441aeb22ba8e51fab921_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    },
+    {
+      "id": 30,
+      "productId": 10,
+      "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/06069b0e97616e678e4061236b8a60cbf1ddd1b2_xxl-1.jpg",
+      "createdAt": "2022-12-22 04:50:37 -0400",
+      "updatedAt": "2022-12-22 04:50:37 -0400"
+    }
+  ]
+}
